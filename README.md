@@ -1,6 +1,9 @@
 # MeowMe
 
+Click to view the love application👇
+https://mighty-tundra-35758.herokuapp.com/posts
 
+[######BUG FIXED######]
 
 This is my Final year project,
 MeowMe is a simple Social Networking Application.
