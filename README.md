@@ -1,6 +1,6 @@
 # MeowMe
 
-Click to view the love application👇
+Click to view the live application👇
 https://mighty-tundra-35758.herokuapp.com/posts
 
 [######BUG FIXED######]
