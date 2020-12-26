@@ -1,10 +1,15 @@
 # MeowMe
 
+
+
 This is my Final year project,
 MeowMe is a simple Social Networking Application.
 
-The GUI on Personal Computers.
+<b>The GUI on Personal Computers
+<br><br><br>
 <img src="screenshots/pc.gif">
-
-The GUI on Mobile Devices.
+<br><br>
+The GUI on Mobile Devices</b>
+<br><br><br>
 <img src="screenshots/mobile.gif">
+
