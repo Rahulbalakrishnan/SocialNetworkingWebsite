@@ -3,6 +3,8 @@
 Click to view the live application👇
 https://mighty-tundra-35758.herokuapp.com/posts
 
+Note: it will take 20-25 seconds to load for first time. 
+
 [######BUG FIXED######]
 
 This is my Final year project,
