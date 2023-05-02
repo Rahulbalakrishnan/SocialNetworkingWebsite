@@ -1,5 +1,5 @@
 
-###################################################################### 
+######################################################################                                                                                                      
 On August 2022, Heroku announced the removal of their free product plans
 For non-Enterprise users, free databases will be deleted in accordance with the Heroku Documentation starting November 28, 2022.
 
